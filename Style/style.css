@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Images/MAPBackground.jpg");
+    background-image: url("../Images/MAPBackground.jpg")!Important;
     height: 500px;
     background-position: center;
     background-repeat: repeat;
@@ -22,26 +22,44 @@ body {
     
 /* all three nav bars */
   nav {
-    background-color: pink;
+    background-color: rgb(53, 102, 53);
     color: darkslategrey;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
   }
 /* heaaders on each page  */
   header h1, header h2 {
+    text-align: center;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     color: darkslategrey
 
   }
+
+  article { 
+    background-color: linen;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+
+  }
+
+  form {
+    background-color: linen;
+    border-top: crimson;
+    border-bottom: crimson;
+    border-left: crimson;
+    border-right: crimson;
+  }
+
+
 /* footer information */
   footer {
-    background-color: pink;
+    background-color: rgb(53, 102, 53);
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
-    color: darkslategrey;
+    color: lightgrey;
     position: fixed;
-    margin-top: 25px;
+    margin-top: px;
     left: 0;
     bottom: 0;
     width: 100%;
