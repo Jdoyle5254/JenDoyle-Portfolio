@@ -6,7 +6,10 @@
 This project is created to provide some entertaining background information about myself, Jen Doyle.  Users can also contact me or  send me a message using this site.  This will also will provide links to my other projects for users to review.    
 
 ## Installation
-To Install locally from Git Hub repository, responsive-portfolio-w2, click CODE box, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   Once there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command code .   This will take you to VS Code and you will be in the repository on your local machine. 
+To install and run locally from Git Hub repository, got to the repository: https://github.com/Jdoyle5254/JenDoyle-Portfolio
+ Click CODE box, select SSH and copy the repository to your clipboard. In your command-line navigate to the folder you want to hold the repository. Once there type 'git clone' and paste the repositiory information into the line. Once completed open the code in VS by typing the command code . This will take you to VS Code and you will be in the repository on your local machine.
+
+ You can also view the portfolio directly from a browswer: https://jdoyle5254.github.io/JenDoyle-Portfolio/
 
 ## Usage
 To navigate the site click the links on the nav bar to go to another page:

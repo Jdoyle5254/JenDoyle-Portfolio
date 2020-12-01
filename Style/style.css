@@ -45,20 +45,18 @@ body {
 
   form {
     background-color: linen;
-    border-top: crimson;
-    border-bottom: crimson;
-    border-left: crimson;
-    border-right: crimson;
+    border: 3px solid black;
+     
   }
   /* portfolio page  */
-.container-project{
+.spacing{
+  margin-bottom: 35px
 
 }  
-/* .project {
-  width: 150px;
-  height: 250px;
-   
-} */
+
+.project {
+  border: 3px solid black;
+}
 
 /* footer information */
   footer {
