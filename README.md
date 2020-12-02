@@ -1,9 +1,9 @@
 # JenDoyle-Portfolio
 ## Project Name 
-    Jen Doyle's Portfolio Site 
+    Jen Doyle Portfolio Site 
     
 ## Description 
-This project is created to provide some entertaining background information about myself, Jen Doyle.  Users can also contact me or  send me a message using this site.  This will also will provide links to my other projects for users to review.    
+This project is created to provide some fun and entertaining background information about myself, Jen Doyle.  Users can also contact me or  send me a message using this site.  This will also  provide links to my other projects for users to review my projects on GitHub.    
 
 ## Installation
 To install and run locally from Git Hub repository, got to the repository: https://github.com/Jdoyle5254/JenDoyle-Portfolio
@@ -14,21 +14,23 @@ To install and run locally from Git Hub repository, got to the repository: https
 ## Usage
 To navigate the site click the links on the nav bar to go to another page:
 
-![Navbar](https://user-images.githubusercontent.com/69594945/95664128-9d34e500-0b0a-11eb-8473-71b718d6daf1.PNG)
+ 
 
 The About Me is the main page of the site and provides background details:
 
-![aboutme](https://user-images.githubusercontent.com/69594945/95664140-c35a8500-0b0a-11eb-8c60-9dc383d51227.PNG)
+ 
+For users to send for more information or to contact me, they can navigate to the contact me page and fill out the form and a message.  They can also click on the links to GitHub, LinkedIn, and my active resume.  
 
-For users to send for more information or to contact me, they can navigate to the contact me page and fill out the form and a message: 
-
-![Contact mePNG](https://user-images.githubusercontent.com/69594945/95664149-d53c2800-0b0a-11eb-9fea-7924ab5ebbaf.PNG)
+ 
 
 For users to view other projects I have created they can navigate to the Portfolio page to view samples of my other projects:
-![Portfolio](https://user-images.githubusercontent.com/69594945/95664155-e38a4400-0b0a-11eb-8bd5-f61a13628b79.PNG)
+ 
 
 ## Credits
-All my classmates who ask excellent questions!  
+All my classmates who ask excellent questions!  Hours of Traversy Media watching on YouTube.   
+
+## Questions
+
 
 ## License
 MIT License
