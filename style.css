@@ -60,10 +60,12 @@ body {
   }
   /* portfolio page  */
 .spacing{
-  margin-bottom: 35px
+  margin-bottom: 35px; 
 
 }  
-
+.portfolio {
+  margin-bottom: 40px; 
+}
 .project {
   border: 3px solid black;
 }
