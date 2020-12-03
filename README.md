@@ -13,24 +13,23 @@ To install and run locally from Git Hub repository, got to the repository: https
 
 ## Usage
 To navigate the site click the links on the nav bar to go to another page:
-
- 
+![PortfolioNavBar](https://user-images.githubusercontent.com/69594945/100955675-8d1efd80-34dc-11eb-87f7-0a642cfbcbcb.PNG)
 
 The About Me is the main page of the site and provides background details:
-
+![AboutMe](https://user-images.githubusercontent.com/69594945/100955670-8b553a00-34dc-11eb-9a6b-16e2b1953807.PNG)
  
 For users to send for more information or to contact me, they can navigate to the contact me page and fill out the form and a message.  They can also click on the links to GitHub, LinkedIn, and my active resume.  
-
- 
+![ContactMe](https://user-images.githubusercontent.com/69594945/100955634-7c6e8780-34dc-11eb-8f98-8e58755ba220.PNG)
 
 For users to view other projects I have created they can navigate to the Portfolio page to view samples of my other projects:
- 
+ ![PortfolioPage](https://user-images.githubusercontent.com/69594945/100955676-8db79400-34dc-11eb-8609-817f1c21fb1a.PNG)
+
 
 ## Credits
 All my classmates who ask excellent questions!  Hours of Traversy Media watching on YouTube.   
 
 ## Questions
-
+Contact me via email or more information on this and other projects jen.doyle5254@gmail.com
 
 ## License
 MIT License
