@@ -35,7 +35,32 @@ body {
     color: darkslategrey;
 
   }
+  /* Portfolio Page Layout */
+  .portfoliohead {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    color: darkslategrey;
+    margin-top: 40px; 
+    margin-bottom: 40px; 
 
+
+  }
+.portcard {
+  backgroun-color: linen; 
+  margin-right: 25px;
+  margin-bottom: 40px;
+  
+  margin-left: 25px;
+}
+
+.card-title, .list-group-item, .card-link{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold; 
+    color: darkslategrey;
+
+}
 
   article { 
     background-color: linen;
@@ -63,12 +88,7 @@ body {
   margin-bottom: 35px; 
 
 }  
-.portfolio {
-  margin-bottom: 40px; 
-}
-.project {
-  border: 3px solid black;
-}
+
 
 /* footer information */
   footer {
@@ -77,7 +97,7 @@ body {
     font-weight: bolder;
     color: lightgrey;
     position: fixed;
-    margin-top: 20px;
+    margin-top: 45px;
     left: 0;
     bottom: 0;
     width: 100%;
