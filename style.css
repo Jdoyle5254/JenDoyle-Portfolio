@@ -11,6 +11,11 @@ body {
 /* adding space between the header and the body */
   .lead {
     margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    color: darkslategrey;
+
   }
 /* paragraph styling */
   p {
@@ -22,13 +27,13 @@ body {
     
 /* all three nav bars */
   nav {
-    background-color: rgb(53, 102, 53);
+    background-color: #70a070;
     color: darkslategrey;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
   }
 /* heaaders on each page  */
-  header h1, header h2 header h3 {
+  header h1, header h2, header h3 {
     text-align: center;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
@@ -41,26 +46,42 @@ body {
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     color: darkslategrey;
+    background-color: #ffffffd4;
+    padding: 10px;
     margin-top: 40px; 
     margin-bottom: 40px; 
 
 
   }
 .portcard {
-  backgroun-color: linen; 
-  margin-right: 25px;
+  display: flex;
+  background-color: linen; 
+  margin-right: 15px;
   margin-bottom: 40px;
-  
-  margin-left: 25px;
+  margin-left: 15px;
 }
 
-.card-title, .list-group-item, .card-link{
+.card-title {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold; 
+  color: darkslategrey;
+  padding-top: 10px;
+
+} 
+
+.list-group-item, .card-link{
     text-align: center;
     font-family: 'Indie Flower', cursive;
     font-weight: bold; 
     color: darkslategrey;
 
 }
+
+.cardbackbody {
+  background-color: #e8e8e8c9;
+}
+
 
 /* index-main page css */
 
@@ -102,7 +123,7 @@ body {
 
 /* footer information */
   footer {
-    background-color: rgb(53, 102, 53);
+    background-color:#70a070;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     color: lightgrey;
